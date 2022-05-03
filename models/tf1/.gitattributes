@@ -1,1 +1,2 @@
 resnet_v1_101_imagenet.tar.gz filter=lfs diff=lfs merge=lfs -text
+mobilenet_v1_ssd_voc6.tar.gz filter=lfs diff=lfs merge=lfs -text
